@@ -48,3 +48,4 @@ SELECT name,
        salary
 FROM above_avg_employees
 ORDER BY salary DESC;
+
